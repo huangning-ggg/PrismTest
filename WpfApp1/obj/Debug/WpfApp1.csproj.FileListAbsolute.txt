@@ -1,0 +1,80 @@
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\App.g.cs
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\WpfApp1.exe
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Prism.dll
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Prism.Unity.Wpf.dll
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Prism.Wpf.dll
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Unity.Abstractions.dll
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Unity.Container.dll
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Prism.pdb
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Prism.xml
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Prism.Unity.Wpf.pdb
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Prism.Unity.Wpf.xml
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Prism.Wpf.pdb
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Prism.Wpf.xml
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Unity.Abstractions.pdb
+E:\visual stdio c# file\WPF\TEST\WpfApp1\bin\Debug\Unity.Container.pdb
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\WpfApp1.exe
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\Views\MainWindow.g.cs
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\Views\MainWindow.baml
+E:\WPF\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\WPF\WpfApp1\bin\Debug\WpfApp1.exe
+E:\WPF\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\WPF\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\WPF\WpfApp1\bin\Debug\Prism.dll
+E:\WPF\WpfApp1\bin\Debug\Prism.Unity.Wpf.dll
+E:\WPF\WpfApp1\bin\Debug\Prism.Wpf.dll
+E:\WPF\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\WPF\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\WPF\WpfApp1\bin\Debug\Unity.Abstractions.dll
+E:\WPF\WpfApp1\bin\Debug\Unity.Container.dll
+E:\WPF\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\WPF\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\WPF\WpfApp1\bin\Debug\Prism.pdb
+E:\WPF\WpfApp1\bin\Debug\Prism.xml
+E:\WPF\WpfApp1\bin\Debug\Prism.Unity.Wpf.pdb
+E:\WPF\WpfApp1\bin\Debug\Prism.Unity.Wpf.xml
+E:\WPF\WpfApp1\bin\Debug\Prism.Wpf.pdb
+E:\WPF\WpfApp1\bin\Debug\Prism.Wpf.xml
+E:\WPF\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\WPF\WpfApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\WPF\WpfApp1\bin\Debug\Unity.Abstractions.pdb
+E:\WPF\WpfApp1\bin\Debug\Unity.Container.pdb
+E:\WPF\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\WPF\WpfApp1\obj\Debug\Views\MainWindow.g.cs
+E:\WPF\WpfApp1\obj\Debug\Views\SubView.g.cs
+E:\WPF\WpfApp1\obj\Debug\Views\SubWindow.g.cs
+E:\WPF\WpfApp1\obj\Debug\App.g.cs
+E:\WPF\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\WPF\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\WPF\WpfApp1\obj\Debug\Views\MainWindow.baml
+E:\WPF\WpfApp1\obj\Debug\Views\SubView.baml
+E:\WPF\WpfApp1\obj\Debug\Views\SubWindow.baml
+E:\WPF\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\WPF\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\WPF\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\WPF\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\WPF\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\WPF\WpfApp1\obj\Debug\WpfApp1.exe
+E:\WPF\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\Views\SubView.g.cs
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\Views\SubWindow.g.cs
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\Views\SubView.baml
+E:\visual stdio c# file\WPF\TEST\WpfApp1\obj\Debug\Views\SubWindow.baml
